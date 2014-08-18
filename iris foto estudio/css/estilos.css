@@ -2,7 +2,7 @@
 body {
 	background-image: url(../imagenes/fondo1.jpg);
 	background-repeat: no-repeat;
-	background-size: code;
+	background-size: cover;
 	background-attachment: fixed;
 }
     #Layer1 {
